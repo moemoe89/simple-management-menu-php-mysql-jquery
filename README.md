@@ -5,3 +5,6 @@ And for PHP script reference from ([https://arjunphp.com/nested-menu-categories-
 
 # Demo
 ([Here](https://youtu.be/u-zW7G9qzRI))
+
+# Note
+Please report me if you found some bug
